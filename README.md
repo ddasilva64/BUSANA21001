@@ -1,7 +1,7 @@
 ---
 description: >-
   This document is my personal notes from the Business Analysis for Data Science
-  Platzi course. I thank the Platzi team and especially teacher Sílvia Ariza
+  Platzi course. I thank the Platzi team, and especially teacher Sílvia Ariza
   Sentís for this great course.
 ---
 
